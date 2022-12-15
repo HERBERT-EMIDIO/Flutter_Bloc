@@ -39,7 +39,7 @@ class _ClientsPageState extends State<ClientsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Clientes'),
+        title: Text('JOGADORES'),
         backgroundColor: Colors.blue[200],
         actions: [
           IconButton(
